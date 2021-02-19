@@ -7,6 +7,7 @@
 <h7>pkg install git</h7>
 
 <h7>git clone https://github.com/Mobin-Dan/TelENumber.git</h7>
+
 <h7>cd TelENumber</h7>
 
 <h7>python install.py</h7>
